@@ -1,8 +1,8 @@
 # Bayesian Regression Problem
 
-- Bayesian Linear Regression에서 파라미터의 사전 분포를 정규분포로 줄 경우에서 ridge regression을 구현
+- Bayesian Linear Regression에서 파라미터의 사전 분포가 정규분포인 경우 ridge regression을 구현
 
-- Bayesian Linear Regression에서 파라미터의 사전 분포를 double exponential 분포로 줄 경우에서 lasso regression을 구현
+- Bayesian Linear Regression에서 파라미터의 사전 분포가 double exponential 분포인 경우 lasso regression을 구현
 
 -  데이터 : Boston House Price로 선정하였음
 
